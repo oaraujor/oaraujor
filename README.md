@@ -1,69 +1,64 @@
 # Octavio Araujo
 
-**Bachelor’s student in Computer Science**  
+**Computer Science Student**  
 Monterrey, Nuevo León, Mexico
-
 ---
 
 ## About Me
 
-Hi, I'm Octavio a computer science and pure mathematics student with a curious mind, a whiteboard always within reach, and an unshakable belief that Linux is the better choice for development (because it is).
+I am a bachelor’s student in Computer Science at the Universidad Autónoma de Nuevo León (UANL), with a strong interest in system-level programming, simulations, and pure mathematics.
+I have experience programming in C/C++ and Python, and I work primarily in Linux environments using tools such as Bash and Git.
 
-I started coding in high school with Visual Basic and C++, which thankfully evolved into C and Python.
-These days, I focus on building small-but-ambitious projects that mix logic, structure, and a little aesthetic chaos (looking at you, fractals).
-
+I began programming in high school with basic level C++ and Visual Basic, and later developed a deeper interest in systems and software design through university coursework and personal projects.
 ---
 
-## What I’m Working On
+## Projects
 
-- **Interactive Fractal Tree Visualizer**: An artistic and recursive dive into fractals, still in development.
-- **Cube World Simulation**: A reimagining of Radica’s Cube World, built to run as a desktop companion.
-- **Hospital Management System**: One of my school projects; serious in scope, humble in design.
+- **Fractal Tree Visualizer**  
+  An interactive visualization tool to explore recursive tree structures and fractals. (In progress)
 
-I'm just getting started on GitHub, a lot of my work is local, personal, or academic. But I plan to change that.
+- **Cube World Simulation**  
+  A recreation of Radica’s Cube World, designed as a desktop companion application. (In progress)
 
+- **Hospital Management System**  
+  A functional academic project focused on patient and staff data management. Developed as part of coursework.
 ---
 
-## Skills & Tools
+## Skills and Tools
 
-- **Languages:** C/C++, Python
-- **Languages I'd like to learn:** Rust
-- **Operating System:** Linux (Gentoo preferred)  
-- **Tools:** Bash, GitHub  
-- **Learning Goals:** Containers, system-level programming, simulations and system administration.
-
----
-
-## Education & Certification
-
-- **Bachelor’s Degree in Computer Science** - In progress  
-- **Red Hat System Administration I (RH124 - RHA 9.3)** – Completed  
-- **Current Goal:** Land an internship to apply my knowledge in real-world projects and keep learning beyond textbooks.
-
----
-
-## How I Work
-
-I approach programming like a math problem: analyze it, map it on a whiteboard, sketch some wild ideas, and then bring order to the chaos.
-If things get too tangled, I don’t mind burning it all down and starting fresh...creatively, of course.
-
-Philosophy:  
-> *“Keep it simple, but not underwhelming. If it breaks, rebuild smarter.”*
-
+- **Languages:** C/C++, Python  
+- **Operating Systems:** Linux (Gentoo)  
+- **Tools:** Bash, Git, GitHub, SSH
 ---
 
 ## Interests
 
-- **Pure Mathematics**: Logic, abstraction, and the occasional brain ache.  
-- **Simulations**: I enjoy building small, contained worlds (especially if they bounce).  
-- **Operating Systems**: Linux has my full attention.  
+I am particularly interested in system-level topics within computer science, including operating systems, cybersecurity, embedded systems, and low-level programming.
+I aim to deepen my understanding of compilers, kernel development, and containerization technologies.
 
+In mathematics, my focus is on discrete structures and algebraic systems, with an emphasis on graph theory, ring theory, and modules.
+
+I am also interested in academic research and plan to explore research literature related to systems, security, and theoretical computer science.
 ---
 
-## The Road Ahead
+## Education
 
-Right now, I’m looking for internship opportunities to gain hands-on experience and deepen my understanding of systems, development workflows, and software design. Until then, you’ll find me coding, studying, or rethinking the structure of yet another array.
-
+- **Bachelor’s Degree in Computer Science** – In progress  
+- **Institution:** Universidad Autónoma de Nuevo León (UANL)  
+- **Certification:** Red Hat System Administration I (RH124 – RHA 9.3)
 ---
 
-*This README will evolve, just like my codebase — and hopefully with fewer bugs.*
+## Goals
+
+- Gain hands-on experience through an internship focused on software development, system administration, or cybersecurity.
+- Expand knowledge in operating systems, development workflows, and infrastructure  
+- Continue building practical and academic projects in areas related to simulations, systems, and mathematics.
+---
+
+## Approach to Problem Solving
+
+I use a structured approach to debugging and development, beginning with analysis and visualization on a whiteboard.
+I prioritize simplicity and maintainability in code, and I’m not hesitant to refactor or rebuild when necessary to improve clarity or correctness.
+---
+
+*This README will evolve, just like my codebase, as I continue to learn.*
