@@ -1,41 +1,29 @@
-## CS Student · Math Enthusiast
-- Monterrey, NL, Mexico
+<details open>
+<summary>English</summary>
 
----
-## 🧠 About
-Computer Science undergraduate at **UANL**, focused on **low-level systems, simulations, and discrete mathematics**.
-Proficient in **C/C++**, **Python**, and Linux-based environments.
-I enjoy building structured, performant solutions and exploring the internals of operating systems and computation.
-[Red Hat Certified | RH124 – RHA 9.3]
+#### Hi, I'm Octavio
 
----
-## 🛠️ Skills
-- **Languages:** C, C++, Python  
-- **OS:** Linux (Gentoo), Bash  
-- **Tools:** Git, GitHub, SSH
+Computer Science student at UANL (Monterrey, N.L., MX) with a strong focus on terminal-based applications, programming languages, and mathematically-driven tooling.
 
----
-## ⚙️ Projects
-- **Fractal Tree Visualizer**  
-  Recursive visual generator of tree-based fractals. *(In progress)*
-- **Cube World Simulation**  
-  Desktop companion app inspired by Radica’s Cube World. *(In progress)*
-- **Hospital Management System**  
-  Academic C project handling medical data and user roles.
-  
----
-## 🎯 Interests
-- **Systems:** OS internals, kernel modules, cybersecurity, embedded systems  
-- **Mathematics:** Graph theory, ring theory, module theory  
-- **Research:** Systems, secure computing, formal logic, compilers
-  
----
-## 🎓 Education
-**B.Sc. in Computer Science** – *In Progress*  
-**Universidad Autónoma de Nuevo León (UANL)**
+Experienced with **C** and **Python**, currently advancing skills in **Rust**. I’m especially interested in building projects at the intersection of systems programming and abstract mathematics.
 
----
-## 🧩 Mindset
-- Whiteboard-first: Design before code.  
-- Refactor relentlessly for clarity and correctness.  
-- Simplicity is power.
+Driven by a deep curiosity about low-level operations and the internals of software, I aim to develop tools such as compilers, Linux utilities, text editors, mathematical engines, and other foundational developer infrastructure.
+
+Always learning. Always building.
+
+</details>
+
+<details>
+<summary>Español</summary>
+
+#### Hola, soy Octavio
+
+Estudiante de Ciencias Computacionales en la UANL (Monterrey, N.L., MX), enfocado en aplicaciones de terminal, lenguajes de programacion y herramientas orientadas a las matematicas.
+
+Tengo experiencia con **C** y **Python**, y actualmente estoy aprendiendo **Rust**. Me interesa especialmente crear proyectos en la interseccion entre la programacion de sistemas y las matematicas abstractas.
+
+Motivado por una profunda curiosidad por el funcionamiento interno del software y de bajo nivel, busco desarrollar a futuro herramientas como compiladores, utilidades de Linux, editores de texto, motores matematicos y otras infraestructuras base para desarrolladores.
+
+Siempre aprendiendo. Siempre construyendo.
+
+</details>
