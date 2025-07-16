@@ -1,7 +1,5 @@
 <details open>
-<summary>English</summary>
-
-#### Hi, I'm Octavio
+<summary>Hi, I'm Octavio!</summary>
 
 Computer Science student at UANL (Monterrey, N.L., MX) with a strong focus on terminal-based applications, programming languages, and mathematically-driven tooling.
 
@@ -14,9 +12,7 @@ Always learning. Always building.
 </details>
 
 <details>
-<summary>Español</summary>
-
-#### Hola, soy Octavio
+<summary>Hola, soy Octavio!</summary>
 
 Estudiante de Ciencias Computacionales en la UANL (Monterrey, N.L., MX), enfocado en aplicaciones de terminal, lenguajes de programacion y herramientas orientadas a las matematicas.
 
